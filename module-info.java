@@ -1,0 +1,2 @@
+module epamweek3 {
+}
